@@ -8,7 +8,6 @@ This is my freeCodeCamp portfolio project, where I showcase my skills and projec
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Project Description](#project-description)
 - [Usage](#usage)
@@ -16,9 +15,6 @@ This is my freeCodeCamp portfolio project, where I showcase my skills and projec
 - [License](#license)
 - [Contact](#contact)
 
-## Demo
-
-You can view the live portfolio at [Your Portfolio URL](https://your-portfolio-url.com).
 
 ## Technologies Used
 
@@ -41,7 +37,7 @@ Feel free to customize this template to add more sections or modify existing one
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/KhangMBui/Personal-Portfolio-freeCodeCamp.git
    Customize the HTML and CSS files to add your own content, projects, and styling.
 
 - Replace the demo links and URLs with your actual project links and URLs.
