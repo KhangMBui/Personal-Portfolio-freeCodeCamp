@@ -38,7 +38,7 @@ Feel free to customize this template to add more sections or modify existing one
 
    ```bash
    git clone https://github.com/KhangMBui/Personal-Portfolio-freeCodeCamp.git
-   Customize the HTML and CSS files to add your own content, projects, and styling.
+- Customize the HTML and CSS files to add your own content, projects, and styling.
 
 - Replace the demo links and URLs with your actual project links and URLs.
 
