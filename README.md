@@ -2,7 +2,8 @@
 
 This is my freeCodeCamp portfolio project, where I showcase my skills and projects as a web developer.
 
-![image](https://github.com/KhangMBui/Personal-Portfolio-freeCodeCamp/assets/114207962/169834e4-5af8-46d4-86d5-a4cc7bea1105)
+![image](https://github.com/KhangMBui/Personal-Portfolio-freeCodeCamp/assets/114207962/5270fc78-7126-40f5-ac5f-e4cdbd80445d)
+
 
 
 ## Table of Contents
